@@ -12,7 +12,7 @@ Removed:
 The repository filesize is approximately 12 MB, compared to upstream's 130 MB.  
 If you decide to clone this, make sure you use `--depth=1`.
 
-Here is the [original, up-to-date Bullet Physics SDK](https://github.com/erwincoumans/bullet3).
+Here is the [original, up-to-date Bullet Physics SDK](https://github.com/bulletphysics/bullet3).
 
 ## License
 
