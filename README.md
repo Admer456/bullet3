@@ -4,12 +4,12 @@ A lightweight fork of Bullet Physics SDK for my projects, so it can be used as a
 
 Removed:
 - data
-- examples with great filesize
+- examples
 - most docs
 - build3 folder
 - tests
 
-The repository filesize is approximately 12 MB, compared to upstream's 130 MB.  
+The repository filesize is approximately 10 MB, compared to upstream's about 310 MB.  
 If you decide to clone this, make sure you use `--depth=1`.
 
 Here is the [original, up-to-date Bullet Physics SDK](https://github.com/bulletphysics/bullet3).
